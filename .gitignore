@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.DS_Store
+*.pbix
+data/processed/
+outputs/
+.env
