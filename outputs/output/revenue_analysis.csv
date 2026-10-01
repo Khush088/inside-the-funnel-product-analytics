@@ -1,0 +1,15 @@
+metric,value,unit
+Total Revenue,362165.0,USD
+Total Purchasers,4419.0,Users
+Positive-Revenue Purchasers,4066.0,Users
+Zero-Revenue Purchasers (Flagged),353.0,Users
+Revenue per User (All Users),1.34,USD/User
+"Revenue per Purchaser (All 4,419 Purchasers)",81.96,USD/Purchaser
+"Revenue per Positive Purchaser (4,066 Purchasers)",89.07,USD/Purchaser
+Median Revenue (Positive Purchasers),56.0,USD
+Mean Revenue (Positive Purchasers),89.07,USD
+Maximum Single-User Revenue,1530.0,USD
+Revenue from Top 10% Purchasers,136424.0,USD
+Top 10% Purchaser Revenue Share %,37.67,Percent
+Revenue from Top 20% Purchasers,196588.0,USD
+Top 20% Purchaser Revenue Share %,54.28,Percent

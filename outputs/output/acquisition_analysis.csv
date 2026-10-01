@@ -1,0 +1,12 @@
+dimension,value,users,pct_of_total_users,viewers,view_rate_pct,view_to_cart_int,cart_conv_pct_of_viewers,cart_to_checkout_int,checkout_conv_pct_of_carters,purchasers,purchase_conv_pct_of_checkouters,purchase_conv_pct_of_all,total_revenue,revenue_per_user,revenue_per_purchaser_all,notes
+Source,google,103718,38.39,22244,21.45,4183,18.81,1790,42.78,1313,41.02,1.27,101494,0.98,77.3,Standard channel
+Source,<Other>,78596,29.09,16728,21.28,3247,19.41,1420,43.72,1015,41.26,1.29,77652,0.99,76.5,Standard channel
+Source,(data deleted),7251,2.68,3341,46.08,1027,30.74,550,53.55,580,65.83,8.0,55608,7.67,95.88,Privacy-masked data-quality category; exclude from strategy
+Source,(direct),63462,23.49,14102,22.22,2920,20.71,1298,44.42,966,44.5,1.52,76674,1.21,79.37,Standard channel
+Source,shop.googlemerchandisestore.com,17127,6.34,4837,28.24,1162,24.02,599,51.46,545,54.39,3.18,50737,2.96,93.1,Standard channel
+Medium,organic,98637,36.51,21262,21.56,4048,19.04,1720,42.48,1271,41.45,1.29,98367,1.0,77.39,Standard channel
+Medium,<Other>,44571,16.5,9074,20.36,1679,18.5,734,43.69,491,37.94,1.1,35870,0.8,73.05,Standard channel
+Medium,(data deleted),7391,2.74,3413,46.18,1044,30.59,560,53.64,588,65.77,7.96,56119,7.59,95.44,Privacy-masked data-quality category; exclude from strategy
+Medium,(none),63462,23.49,14102,22.22,2920,20.71,1298,44.42,966,44.5,1.52,76674,1.21,79.37,Standard channel
+Medium,referral,42684,15.8,10691,25.05,2379,22.25,1140,47.88,961,49.79,2.25,86016,2.02,89.51,Standard channel
+Medium,cpc,13409,4.96,2710,20.21,469,17.31,205,43.71,142,39.44,1.06,9119,0.68,64.22,Standard channel

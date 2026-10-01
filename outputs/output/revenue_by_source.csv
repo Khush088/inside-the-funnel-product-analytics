@@ -1,0 +1,6 @@
+traffic_source,total_revenue,avg_revenue_per_user,pct_of_total_revenue
+google,101494,0.9785572417516728,28.02
+<Other>,77652,0.9879892106468523,21.44
+(direct),76674,1.2081875768176231,21.17
+(data deleted),55608,7.669011170872983,15.35
+shop.googlemerchandisestore.com,50737,2.9623985519939278,14.01

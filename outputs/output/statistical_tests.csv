@@ -1,0 +1,6 @@
+Test,Statistic,p-value,Effect_Size_CramersV
+Chi-squared (device vs purchased),3.533657766,0.170873992,0.002382639
+Chi-squared (engagement vs purchased),19886.3469,0,0.271300609
+Mann-Whitney (session_count: purch vs non-purch),960173051,0,
+Mann-Whitney (active_days: purch vs non-purch),926479096.5,0,
+Kruskal-Wallis (revenue across devices),4.149709407,0.125574672,

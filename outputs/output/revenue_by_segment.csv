@@ -1,0 +1,6 @@
+user_segment,users,total_revenue,avg_revenue,pct_of_total_revenue
+Browser,44732,0,0.0,0.0
+Cart Abandoner,6888,0,0.0,0.0
+Checkout Abandoner,5296,0,0.0,0.0
+No Engagement,208819,0,0.0,0.0
+Purchaser,4419,362165,81.95632496039828,100.0

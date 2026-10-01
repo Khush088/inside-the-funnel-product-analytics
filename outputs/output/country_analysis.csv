@@ -1,0 +1,48 @@
+country,users,pct_of_total_users,viewers,view_rate_pct,purchasers,purchase_conv_pct,total_revenue,revenue_per_user,revenue_per_purchaser_all,revenue_per_positive_purchaser,market_type
+United States,118493,43.86,26953,22.75,1942,1.64,160573,1.36,82.68,90.36,High-Volume High-Value
+India,25367,9.39,5795,22.84,406,1.6,34986,1.38,86.17,93.05,High-Volume Opportunity
+Canada,20268,7.5,4653,22.96,355,1.75,32799,1.62,92.39,100.0,High-Volume High-Value
+United Kingdom,8527,3.16,1941,22.76,137,1.61,11458,1.34,83.64,88.82,High-Volume Opportunity
+France,5381,1.99,1205,22.39,93,1.73,6650,1.24,71.51,73.89,High-Volume High-Value
+Spain,5044,1.87,1119,22.18,84,1.67,7681,1.52,91.44,97.23,High-Volume High-Value
+Germany,4866,1.8,1019,20.94,74,1.52,5288,1.09,71.46,77.76,High-Volume Opportunity
+China,4620,1.71,1049,22.71,68,1.47,6623,1.43,97.4,106.82,High-Volume Opportunity
+Taiwan,4568,1.69,1033,22.61,72,1.58,4238,0.93,58.86,65.2,High-Volume Opportunity
+Italy,3750,1.39,878,23.41,50,1.33,4967,1.32,99.34,107.98,High-Volume Opportunity
+Singapore,3597,1.33,828,23.02,51,1.42,3824,1.06,74.98,81.36,High-Volume Opportunity
+Japan,3547,1.31,794,22.39,68,1.92,5752,1.62,84.59,91.3,High-Volume High-Value
+South Korea,3424,1.27,746,21.79,50,1.46,3543,1.03,70.86,82.4,High-Volume Opportunity
+Netherlands,3042,1.13,689,22.65,56,1.84,3991,1.31,71.27,79.82,High-Volume High-Value
+Turkey,2733,1.01,623,22.8,52,1.9,5345,1.96,102.79,102.79,High-Volume High-Value
+Brazil,2696,1.0,576,21.36,49,1.82,4177,1.55,85.24,88.87,High-Volume High-Value
+Australia,2453,0.91,561,22.87,45,1.83,4378,1.78,97.29,104.24,High-Volume High-Value
+Indonesia,2408,0.89,516,21.43,25,1.04,2124,0.88,84.96,92.35,High-Volume Opportunity
+Poland,2368,0.88,545,23.02,45,1.9,2989,1.26,66.42,80.78,High-Volume High-Value
+Mexico,2264,0.84,533,23.54,38,1.68,3211,1.42,84.5,91.74,High-Volume High-Value
+(not set),2168,0.8,489,22.56,30,1.38,1565,0.72,52.17,53.97,High-Volume Opportunity
+Russia,1758,0.65,420,23.89,38,2.16,2378,1.35,62.58,72.06,High-Volume High-Value
+Hong Kong,1652,0.61,388,23.49,28,1.69,1995,1.21,71.25,79.8,High-Volume High-Value
+Ireland,1584,0.59,379,23.93,30,1.89,2483,1.57,82.77,85.62,High-Volume High-Value
+Sweden,1490,0.55,357,23.96,23,1.54,1256,0.84,54.61,59.81,Low-Volume Low-Value
+Malaysia,1430,0.53,309,21.61,25,1.75,3121,2.18,124.84,124.84,High-Value Niche
+Switzerland,1428,0.53,328,22.97,18,1.26,1038,0.73,57.67,64.88,Low-Volume Low-Value
+Philippines,1333,0.49,305,22.88,23,1.73,1643,1.23,71.43,78.24,High-Value Niche
+Colombia,1285,0.48,279,21.71,28,2.18,2130,1.66,76.07,78.89,High-Value Niche
+Israel,1262,0.47,259,20.52,17,1.35,1219,0.97,71.71,76.19,Low-Volume Low-Value
+Pakistan,1206,0.45,254,21.06,19,1.58,1417,1.17,74.58,78.72,Low-Volume Low-Value
+Peru,1195,0.44,276,23.1,20,1.67,1377,1.15,68.85,81.0,High-Value Niche
+Thailand,1191,0.44,269,22.59,22,1.85,2562,2.15,116.45,122.0,High-Value Niche
+Portugal,1165,0.43,236,20.26,18,1.55,1371,1.18,76.17,76.17,Low-Volume Low-Value
+Vietnam,1128,0.42,279,24.73,19,1.68,1604,1.42,84.42,84.42,High-Value Niche
+Belgium,1116,0.41,260,23.3,15,1.34,498,0.45,33.2,49.8,Low-Volume Low-Value
+Ukraine,990,0.37,199,20.1,10,1.01,1094,1.11,109.4,109.4,Low-Volume Low-Value
+Greece,975,0.36,243,24.92,18,1.85,1725,1.77,95.83,101.47,High-Value Niche
+United Arab Emirates,844,0.31,171,20.26,11,1.3,692,0.82,62.91,69.2,Low-Volume Low-Value
+Denmark,748,0.28,168,22.46,12,1.6,727,0.97,60.58,60.58,Low-Volume Low-Value
+Romania,723,0.27,160,22.13,5,0.69,436,0.6,87.2,87.2,Low-Volume Low-Value
+Argentina,710,0.26,158,22.25,9,1.27,550,0.77,61.11,68.75,Low-Volume Low-Value
+Czechia,700,0.26,141,20.14,15,2.14,707,1.01,47.13,54.38,High-Value Niche
+Austria,687,0.25,165,24.02,19,2.77,836,1.22,44.0,52.25,High-Value Niche
+Saudi Arabia,575,0.21,129,22.43,9,1.57,618,1.07,68.67,77.25,Low-Volume Low-Value
+Egypt,549,0.2,130,23.68,9,1.64,493,0.9,54.78,54.78,High-Value Niche
+Bangladesh,540,0.2,114,21.11,8,1.48,352,0.65,44.0,44.0,Low-Volume Low-Value

@@ -1,0 +1,4 @@
+transition,from_stage,to_stage,denominator_users,intersecting_users,stage_progression_pct,stage_dropoff_pct,users_lost,notes
+View -> Cart,Product View,Add to Cart,61252,12539,20.47,79.53,48713,"6 users added to cart without viewed_item flag; direct intersection is 12,539"
+Cart -> Checkout,Add to Cart,Begin Checkout,12545,5657,45.09,54.91,6888,"4,058 users began checkout without added_to_cart flag; direct intersection is 5,657"
+Checkout -> Purchase,Begin Checkout,Purchase,9715,4419,45.49,54.51,5296,"All 4,419 purchasers have began_checkout flag; direct intersection is 4,419"

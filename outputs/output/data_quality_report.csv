@@ -1,0 +1,11 @@
+Metric,Value
+shape,"(270154, 12)"
+duplicates,0
+missing_values,0
+bool_flags_valid,True
+began_without_cart,4058
+cart_without_view,6
+purchased_without_checkout,0
+zero_revenue_purchasers,353
+negative_revenue,0
+session_count_zero,3038
